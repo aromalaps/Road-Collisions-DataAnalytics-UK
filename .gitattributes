@@ -1,4 +1,6 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.xlsx filter=lfs diff=lfs merge=lfs -text
 *.parquet filter=lfs diff=lfs merge=lfs -text
+Jupyter_PREDICTIVEMODEL_with_datset_ready[[:space:]]for[[:space:]]modeling/FINAL_DATASET_FOR_TRAINING.xls filter=lfs diff=lfs merge=lfs -text
+Jupyter_PREDICTIVEMODEL_with_datset_ready[[:space:]]for[[:space:]]modeling/outputs/predictions_new_data.xls filter=lfs diff=lfs merge=lfs -text
 *.xls filter=lfs diff=lfs merge=lfs -text
